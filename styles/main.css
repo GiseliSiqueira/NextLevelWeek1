@@ -8,7 +8,7 @@
     * {
         margin: 0;
         padding: 0;
-        box-sizing: border-box; /*ajuste do preenchimento da caixa à borda da caixa*/
+        box-sizing: border-box; /*ajuste do preenchimento da caixa à borda da caixa */
     }
 
     html {
